@@ -1,0 +1,370 @@
+.header .wrapper
+{
+width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.use .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolioa 
+{
+	width:80%;
+	margin:auto;
+}
+.portfoliob .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolioc .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.review .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contact .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.terms .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	 background-color:lightblue;
+	 height:75px;
+	 
+	 
+}
+.header .header-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:navy;
+	width:169px;
+	height:68px;
+	margin-top:5px;
+}
+.header .header-fc .header-navi
+{
+	background-color:navy;
+	width:96px;
+	height:68px;
+	margin-top:5px;
+}
+
+.logo
+{
+	background-color:rgb(85,106,136);
+	height:592px;
+	
+}
+
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+
+.logo .logo-fc .logotext
+{
+        text-align:center;
+	margin-top:150px;
+		width:100%;
+}
+.logo .logo-fc .logoboxa
+{
+
+	background:white;
+	height:82px;
+	width:517px;
+	margin-top:150px;
+}
+
+.logo .logo-fc .logoboxb
+{
+		background:navy;
+	height:82px;
+	width:107px;
+	margin-top:150px;
+}
+.use
+{
+	background-color:gray;
+	height:392px;
+}
+.use .use-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.use .use-fc .useboxa
+{
+	background:lightblue;
+	height:195px;
+	width:286px;
+	margin-top:50px;
+}
+.use .use-fc .useboxb
+{
+	background:lightblue;
+	height:195px;
+	width:286px;
+	margin-top:50px;
+}
+.use .use-fc .useboxc
+{
+	background:lightblue;
+	height:195px;
+	width:286px;
+	margin-top:50px;
+}
+
+
+.portfolioa
+{
+	background-color:white;
+	height:510px;
+
+}
+
+.portfolioa .portfolioa-fc
+{
+	display:flex;
+	flex direction:row;
+	justify-content: space-between;
+}
+.portfolioa .portfolioa-fc .porttexta
+{
+	text-align:center;
+	margin-top:20px;
+	
+	
+   
+}
+.portfolioa .portfolioa-fc .porta
+{
+		background-color:pink;
+		height:483px;
+		width:700px;
+		margin-top:6px;
+}
+
+
+.portfoliob
+{
+		background-color:white;
+	height:510px;
+}
+
+.portfoliob .portfoliob-fc
+{
+	display:flex;
+	flex direction:row;
+	justify-content: space-between;
+	
+	
+}
+
+
+.portfoliob .portfoliob-fc .portb
+{
+				background-color:pink;
+		height:483px;
+		width:700px;
+		margin-top:6px;
+		
+}
+
+.portfoliob .portfoliob-fc .porttextb
+{
+	
+text-align:center;
+	margin-top:20px;
+
+	
+}
+
+.portfolioc
+{
+	background-color:white;
+	height:510px;
+
+}
+
+.portfolioc .portfolioc-fc
+{
+	display:flex;
+	flex direction:row;
+	justify-content: space-between;
+}
+.portfolioc .portfolioc-fc .porttextc
+{
+	text-align:center;
+	margin-top:20px;
+}
+	
+	
+   
+.portfolioc .portfolioc-fc .portc
+
+{
+		background-color:pink;
+		height:483px;
+		width:700px;
+		margin-top:6px;
+}
+
+
+
+
+.review
+{
+	background-color:gray;
+	height:392px;
+}
+.review .review-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.review .review-fc .reviewtext
+{
+	text-align:center;
+	width:100%;
+}
+.review .review-fc .reviewa
+{
+	background:pink;
+	height:304px;
+	width:291px;
+	margin-top:6px;
+}
+.review .review-fc .reviewb
+{
+	background:pink;
+	height:304px;
+	width:291px;
+	margin-top:6px;;
+}
+.review .review-fc .reviewc
+{
+	background:pink;
+	height:304px;
+	width:291px;
+	margin-top:6px;
+}
+
+
+.contact
+{
+	background-color:rgb(85,106,136);
+	height:352px;
+	
+}
+
+.contact .contact-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+
+
+.contact .contact-fc .contacttext
+{
+        text-align:center;
+		margin-top:50px;
+		width:100%;
+}
+.contact .contact-fc .conboxa
+{
+
+	background:white;
+	height:66px;
+	width:500px;
+	margin-top:20px;
+}
+
+.contact .contact-fc .conboxb
+{
+			background:white;
+	height:66px;
+	width:100px;
+	margin-top:20px;
+}
+
+.terms
+{
+	 background-color:white;
+	 height:80px;
+	 
+	 
+}
+.terms .terms-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+}
+.terms .terms-fc .leftterm
+{
+	background-color:black;
+	width:416px;
+	height:60px;
+	margin-top:5px;
+}
+.terms .terms-fc .rightterm
+{
+	background-color:black;
+	width:190px;
+	height:60px;
+	margin-top:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
